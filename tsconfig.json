@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "sourceMap": false,
+      "removeComments": true,
+      "esModuleInterop": true,
+      "lib": ["es6", "ESNext.BigInt","DOM"]
+    }
+}
